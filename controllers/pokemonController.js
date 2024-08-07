@@ -167,7 +167,6 @@ exports.getPokemonByOwnerAndUpdate = async (req, res) => {
   try {
     const { pokemonOwnerName } = req.params;
     const updateData = req.body;
-    console.log("This is the updateData ::::",updateData);
     let pokemonList = await readData();
     
     const ownerIndex = pokemonList.findIndex(entry => entry.pokemonOwnerName === pokemonOwnerName);

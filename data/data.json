@@ -1,34 +1,17 @@
 [
   {
-    "pokemonOwnerName": "Srinivas",
+    "pokemonOwnerName": "Shravya",
     "pokemons": [
       {
-        "id": "23cdfbc2-ab51-4a71-b6da-2cba39fa919f",
-        "pokemonOwnerName": "Srinivas",
-        "direction": "23",
-        "initialPositionX": "123",
-        "initialPositionY": "1224",
-        "pokemonName": "ivysaur",
-        "pokemonAbility": "overgrow",
-        "speed": "100"
+        "id": "cad81f60-9476-4349-b199-e78d016ce3ce",
+        "pokemonOwnerName": "Shravya",
+        "direction": "east",
+        "initialPositionX": "-3",
+        "initialPositionY": "0",
+        "pokemonName": "butterfree",
+        "pokemonAbility": "compound-eyes",
+        "speed": "78"
       }
-    ],
-    "pokemonAbility": "overgrow"
-  },
-  {
-    "pokemonOwnerName": "Karthik",
-    "pokemons": [
-      {
-        "id": "e7152f93-8ff1-4c65-b4ae-7aeb9433a4ed",
-        "pokemonOwnerName": "Karthik",
-        "direction": "5",
-        "initialPositionX": "1234",
-        "initialPositionY": "987",
-        "pokemonName": "growlithe",
-        "pokemonAbility": "inner-focus",
-        "speed": "200"
-      }
-    ],
-    "pokemonAbility": "inner-focus"
+    ]
   }
 ]
